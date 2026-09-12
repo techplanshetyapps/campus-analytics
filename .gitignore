@@ -1,0 +1,7 @@
+.DS_Store?
+._*
+.Trashes
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
